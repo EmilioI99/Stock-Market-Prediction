@@ -10,10 +10,11 @@ This notebook demonstrates the use of LSTM neural networks for stock price predi
 
 To use this notebook:
 
-1. Open the notebook in Google Colab by clicking [here](https://colab.research.google.com/drive/1_h47WB_N5aloSFS35YkUsRRvmblGCIe-).
-2. Ensure you have necessary access permissions to load data from Google Drive.
-3. Run each cell sequentially to execute the code and see the results.
-4. Customize the code as needed for your specific use case.
+1. Download and Open the notebook.
+2. Ensure you have necessary access permissions to download data from Kaggle.
+3. Change the csv_path variable to the path where the dataset is downloaded in your machine.
+4. Run each cell sequentially to execute the code and see the results.
+5. Customize the code as needed for your specific use case.
 
 ## Dependencies
 
@@ -24,7 +25,6 @@ This notebook relies on the following libraries:
 - matplotlib
 - scikit-learn
 - TensorFlow (via Keras)
-- Google Colab (for accessing data from Google Drive)
 
 ## Data
 
